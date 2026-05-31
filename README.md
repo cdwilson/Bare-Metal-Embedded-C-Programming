@@ -63,6 +63,7 @@ With the following software and hardware list you can run all code files present
 * Page 222 (Paragraph 1, line 1): **an 8-bit ADC has 256(28)** _should be_ **an 8-bit ADC has 256(2^8)**
 * Page 225 (Figure 11.3): **ADC1_IN16** *should be* **ADC1_IN14** *(external channels are ADC1_IN0 ... ADC1_IN15), and the diagram is missing internal channels ADC1_IN16, ADC1_IN17, and ADC1_IN18*
 * Page 289 (line 31): **\#define ADXL345_REG_DATA_FORMAT (0x31)** _should be ignored (defined twice)_
+* Page 350 (line 3): **iwdg.h** *source is missing from the text (see https://github.com/PacktPublishing/Bare-Metal-Embedded-C-Programming/blob/main/Chapter16-IWDG/Inc/iwdg.h)*
 
 ## Related products
 * Learn C Programming [[Packt]](https://www.packtpub.com/en-in/product/learn-c-programming-9781801078450) [[Amazon]](https://a.co/d/41k1gwQ)
