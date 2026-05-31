@@ -56,6 +56,7 @@ With the following software and hardware list you can run all code files present
 * Page 73 (line 7): **Figure 3.5 shows some of the content of Console pane after building our 2_RegisterManipulation bare-metal GPIO driver project.** _should be ignored_
 * Page 82 (Paragraph 1, line 1): **This command erases the existing firmware on the microcontroller and writes the new firmware (in this case, 2_RegisterManipulation.elf) Onto it.** _should be ignored_
 * Page 85 (Paragraph 1, line 5): **than we can** _should be ignored_
+* Page 115 (line 11): *Heading* **Default dandler** *should be* **Default Handler**
 * Page 221 (line 2): **an 8-bit ADC has 256 levels (28), while a 12-bit ADC has 4096 levels (212)** _should be_ **an 8-bit ADC has 256 levels (2^8), while a 12-bit ADC has 4096 levels (2^12)**
 * Page 222 (Paragraph 1, line 1): **an 8-bit ADC has 256(28)** _should be_ **an 8-bit ADC has 256(2^8)**
 
