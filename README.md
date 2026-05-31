@@ -56,6 +56,7 @@ With the following software and hardware list you can run all code files present
 * Page 20 (line 13): **Nucleo-F11 User Manual** *should be* **Nucleo-F411 User Manual**
 * Page 23 (line 1): **select Nucleo-F11RE** *should be* **select Nucleo-F411RE**
 * Page 29 (line 15): **\Let's analyze the snippet:** _should be_ **Let's analyze the snippet:**
+* Page 42 (line 1 & 8): **Figure 12.11** *and* **Figure 12.12** *should be* **Figure 2.11** *and* **Figure 2.12**, *respectively*
 * Page 52 (line 4): **0 and bit 11 to 1** _should be_ **1 and bit 11 to 0**
 * Page 73 (line 7): **Figure 3.5 shows some of the content of Console pane after building our 2_RegisterManipulation bare-metal GPIO driver project.** _should be ignored_
 * Page 82 (Paragraph 1, line 1): **This command erases the existing firmware on the microcontroller and writes the new firmware (in this case, 2_RegisterManipulation.elf) Onto it.** _should be ignored_
