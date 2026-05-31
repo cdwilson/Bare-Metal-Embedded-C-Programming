@@ -53,6 +53,7 @@ With the following software and hardware list you can run all code files present
 * Page 4 (line 4): **STM32F411 datasheet:** *link should be* https://www.st.com/resource/en/datasheet/stm32f411re.pdf
 * Page 29 (line 15): **\Let's analyze the snippet:** _should be_ **Let's analyze the snippet:**
 * Page 52 (line 4): **0 and bit 11 to 1** _should be_ **1 and bit 11 to 0**
+* Page 73 (line 7): **Figure 3.5 shows some of the content of Console pane after building our 2_RegisterManipulation bare-metal GPIO driver project.** _should be ignored_
 * Page 82 (Paragraph 1, line 1): **This command erases the existing firmware on the microcontroller and writes the new firmware (in this case, 2_RegisterManipulation.elf) Onto it.** _should be ignored_
 * Page 85 (Paragraph 1, line 5): **than we can** _should be ignored_
 * Page 221 (line 2): **an 8-bit ADC has 256 levels (28), while a 12-bit ADC has 4096 levels (212)** _should be_ **an 8-bit ADC has 256 levels (2^8), while a 12-bit ADC has 4096 levels (2^12)**
